@@ -8,5 +8,7 @@ https://www.w3schools.com/cssref/sel_hover.php
 https://www.w3schools.com/css/css_rwd_viewport.asp
 https://www.w3schools.com/html/html_images.asp
 https://www.w3schools.com/css/css_navbar.asp
+https://linuxhint.com/disable-scroll-bar-css/#2
 
-Live at:
+Live at: 
+
